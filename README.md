@@ -3,7 +3,7 @@
 
 **행복한 자산배분! Always Happy! Happy Virus Asset Allocation!!🤘🤘**
 *****
-<p align="center">![image](https://github.com/DART-KNU/Monte-Carlo-method/assets/154722795/fb1ac397-3679-43b4-8f20-bfdab8756d5a)</p>
+<p align="center"> ![image](https://github.com/DART-KNU/Monte-Carlo-method/assets/154722795/fb1ac397-3679-43b4-8f20-bfdab8756d5a) </p>
 
 *****
 참고자료
